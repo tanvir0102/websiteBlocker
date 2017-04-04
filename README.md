@@ -6,6 +6,7 @@ What it does, is doesn't allow to brows certain destructing website - Facebook, 
 
 
 
+
 Program Architecture:
 Mac and Linux: /etc/hosts
 Windows: C:\wondows\System32\drivers\etc\hosts
